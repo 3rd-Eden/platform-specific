@@ -1,0 +1,32 @@
+{
+  "name": "platform-specific",
+  "version": "1.0.0",
+  "description": "Platform specific information for isomorphic applications",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3rd-Eden/platform-specific.git"
+  },
+  "keywords": [
+    "platform-specific",
+    "platform",
+    "cross-platform",
+    "cross",
+    "isomorphic",
+    "react",
+    "react-native",
+    "browser",
+    "nodejs",
+    "application",
+    "app"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3rd-Eden/platform-specific/issues"
+  },
+  "homepage": "https://github.com/3rd-Eden/platform-specific#readme"
+}
