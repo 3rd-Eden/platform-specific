@@ -1,6 +1,6 @@
 var Platform = {
   type: 'js',
-  platform: 'browser'
+  platform: 'nodejs'
 };
 
 module.exports = Platform;

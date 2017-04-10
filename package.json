@@ -1,10 +1,11 @@
 {
   "name": "platform-specific",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Platform specific information for isomorphic applications",
-  "browser": "browser.js",
+  "browser": "./index",
+  "main": "./main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -28,5 +29,9 @@
   "bugs": {
     "url": "https://github.com/3rd-Eden/platform-specific/issues"
   },
-  "homepage": "https://github.com/3rd-Eden/platform-specific#readme"
+  "homepage": "https://github.com/3rd-Eden/platform-specific#readme",
+  "devDependencies": {
+    "assume": "~1.4.1",
+    "mocha": "~3.1.2"
+  }
 }
