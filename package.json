@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/3rd-Eden/platform-specific#readme",
   "devDependencies": {
-    "assume": "~1.4.1",
+    "assume": "~1.5.1",
     "mocha": "~3.1.2"
   }
 }
